@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("MultiThreading")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d47601f95c6b93ed61612d896e269eb933ecbf1")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("MultiThreading")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("MultiThreading")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

@@ -45,6 +45,11 @@
               "version": "[8.0.403, )",
               "generatePathProperty": true
             },
+            "FSharp.SystemTextJson": {
+              "target": "Package",
+              "version": "[1.4.36, )",
+              "generatePathProperty": true
+            },
             "FSound": {
               "target": "Package",
               "version": "[1.0.0, )",

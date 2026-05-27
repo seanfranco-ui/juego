@@ -47,3 +47,5 @@ C:\Users\USUARIO\Desktop\efshar3\MultiThreading\bin\Debug\net8.0\XPlot.GoogleCha
 C:\Users\USUARIO\Desktop\efshar3\MultiThreading\bin\Debug\net8.0\XPlot.GoogleCharts.WPF.dll
 C:\Users\USUARIO\Desktop\efshar3\MultiThreading\bin\Debug\net8.0\XPlot.Plotly.dll
 C:\Users\USUARIO\Desktop\efshar3\MultiThreading\bin\Debug\net8.0\XPlot.Plotly.WPF.dll
+C:\Users\USUARIO\Desktop\efshar3\MultiThreading\obj\Debug\net8.0\MultiThreading.sourcelink.json
+C:\Users\USUARIO\Desktop\efshar3\MultiThreading\bin\Debug\net8.0\FSharp.SystemTextJson.dll

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Types.fs" />
+    <Compile Include="Utils.fs" />
+    <Compile Include="AudoLib.fs" />
+    <Compile Include="Menu.fs" />
+    
+    <Compile Include="Enemy.fs" /><Compile Include="Character.fs" />
+    <Compile Include="Program.fs" />
+    <Compile Include="Router.fs" />
+    <Compile Include="programa.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FSharp.SystemTextJson" Version="1.4.36" />
+    <PackageReference Include="FSound" Version="1.0.0" />
+  </ItemGroup>
+</Project>

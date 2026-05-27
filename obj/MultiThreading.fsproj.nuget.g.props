@@ -21,5 +21,6 @@
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\USUARIO\.nuget\packages\fsharp.core\8.0.403</PkgFSharp_Core>
     <PkgFsUnit Condition=" '$(PkgFsUnit)' == '' ">C:\Users\USUARIO\.nuget\packages\fsunit\3.0.0</PkgFsUnit>
     <PkgFSound Condition=" '$(PkgFSound)' == '' ">C:\Users\USUARIO\.nuget\packages\fsound\1.0.0</PkgFSound>
+    <PkgFSharp_SystemTextJson Condition=" '$(PkgFSharp_SystemTextJson)' == '' ">C:\Users\USUARIO\.nuget\packages\fsharp.systemtextjson\1.4.36</PkgFSharp_SystemTextJson>
   </PropertyGroup>
 </Project>
